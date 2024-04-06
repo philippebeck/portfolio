@@ -1,0 +1,54 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  box-sizing: border-box;
+  padding: 2px 20px;
+  width: 100%;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  background-color: var(--primary);
+  color: var(--white);
+
+  ul {
+    display: flex;
+    gap: 10px;
+  }
+
+  a {
+    &:hover,
+    &:focus {
+      color: var(--secondary);
+    }
+  }
+
+  b {
+    display: none;
+  }
+
+  @media (min-width: 768px) {
+    justify-content: space-around;
+    padding: 5px 0;
+    font-size: 1rem;
+    text-transform: capitalize;
+
+    a {
+      display: flex;
+      flex-flow: column;
+      gap:10px;
+    }
+
+    b {
+      display: block;
+    }
+  }
+
+
+  @media (min-width: 1200px) {
+    justify-content: space-evenly;
+    padding: 10px 0;
+    font-size: 1.2rem;
+  }
+}

@@ -1,0 +1,25 @@
+import { components } from '../../../assets/data.json'
+import './footer.css'
+
+import Icon from '../../atoms/icon/icon'
+import Link from '../../atoms/link/link'
+
+const Footer = () => {
+
+  return (
+    <footer>
+      <ul>
+        { components.footer.map((item, index) =>
+          <li key={index}>
+            <Link
+              url={item.url} 
+              content={<Icon cat="brands" name={item.icon} />}
+            />
+          </li>
+        )}
+      </ul>
+    </footer>
+  )
+}
+
+export default Footer
