@@ -1,12 +1,13 @@
 import Card from '../../molecules/card/card'
 import Link from '../../atoms/link/link'
+import Title from '../../atoms/title/title'
 import './gallery.css'
 
 const Gallery = ({ name, gallery }) => {
 
   return (
     <section className="gallery">
-      <h3>{name}</h3>
+      <Title name={name} lvl="3" />
 
       <ul>
         { gallery.map((item, index) => 
@@ -15,7 +16,11 @@ const Gallery = ({ name, gallery }) => {
             <Link
               url={item.url}
               content={
-                <Card url={item.image} alt={item.alt} content={item.name} />
+                <Card
+                  url={item.image}
+                  alt={item.alt}
+                  content={<h4>{item.name}</h4>}
+                />
               }
             />
           </li>
