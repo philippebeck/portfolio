@@ -1,10 +1,13 @@
+import { links } from '../../../assets/data.json'
+import Link from '../../atoms/link/link'
+import Title from '../../atoms/title/title'
 import './links.css'
 
 const Links = () => {
 
   return (
     <article id="links">
-      <h2>Links</h2>
+      <Title name="Links" />
 
     </article>
   )

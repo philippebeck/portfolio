@@ -1,7 +1,8 @@
 import { components } from '../../../assets/data.json'
+import logo from '../../../assets/logo.webp'
 import Icon from '../../atoms/icon/icon'
+import Image from '../../atoms/image/image'
 import Link from '../../atoms/link/link'
-import Logo from '../../atoms/logo/logo'
 import './nav.css'
 
 const Nav = () => {
@@ -26,7 +27,7 @@ const Nav = () => {
 
       <Link
         url="#intro"
-        content={<Logo />}
+        content={<Image url={logo} alt="Logo" />}
       />
 
       <ul>
