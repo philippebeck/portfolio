@@ -28,6 +28,12 @@ ul {
   max-width: 1200px;
 }
 
+hr {
+  margin: 50px auto;
+  width: 50%;
+  color: var(--primary);
+}
+
 ul {
   padding: 0;
   list-style: none;
