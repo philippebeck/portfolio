@@ -1,16 +1,21 @@
 import './link.css'
 
-const Link = ({url, content}) => {
+const Link = ({url, content, design=''}) => {
   const isExternalLink = url.startsWith('https');
 
   return (
     isExternalLink
     ?
-    <a href={url} rel="noopener noreferrer" target="_blank">
+    <a
+      href={url}
+      className={design}
+      rel="noopener noreferrer"
+      target="_blank"
+    >
       {content}
     </a>
     :
-    <a href={url}>{content}</a>
+    <a href={url} className={design}>{content}</a>
   )
 }
 
