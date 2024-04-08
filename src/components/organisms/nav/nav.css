@@ -38,6 +38,7 @@ nav {
       display: flex;
       flex-flow: column;
       gap:10px;
+      place-items: center;
     }
 
     b {
