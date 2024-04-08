@@ -1,10 +1,15 @@
 :root {
   --primary:    hsl(275, 100%, 25%);
   --secondary:  hsl(120, 100%, 50%);
-  --black:      hsl(0, 0%, 0%);
-  --gray:       hsl(0, 0%, 20%);
-  --silver:     hsl(0, 0%, 80%);
-  --white:      hsl(0, 0%, 99%);
+  --red:        hsl(0, 100%, 50%);
+  --green:      hsl(120, 100%, 25%);
+  --blue:       hsl(240, 100%, 25%);
+
+  --black:  hsl(0, 0%, 0%);
+  --slate:  hsl(0, 0%, 20%);
+  --gray:   hsl(0, 0%, 50%);
+  --silver: hsl(0, 0%, 80%);
+  --white:  hsl(0, 0%, 99%);
 }
 
 html {

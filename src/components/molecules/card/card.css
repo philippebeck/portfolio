@@ -1,10 +1,10 @@
 .card {
   --radius: 10px;
 
-  border: solid 2px var(--gray);
+  border: solid 2px var(--slate);
   border-radius: var(--radius);
   width: 100%;
-  background-color: var(--gray);
+  background-color: var(--slate);
 
   img {
     border-radius: var(--radius) var(--radius) 0 0;
@@ -18,7 +18,7 @@
     margin-top: -5px;
     border-radius: 0 0 var(--radius) var(--radius);
     height: 60px;
-    background-color: var(--gray);
+    background-color: var(--slate);
     color: var(--white);
   }
 }
