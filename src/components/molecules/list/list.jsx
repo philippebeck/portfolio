@@ -1,15 +1,21 @@
+import Link from "../../atoms/link/link"
 import "./list.css"
 
 const List = ({ array }) => {
 
   return (
-    <ul>
-      { array.map((item, index) =>
-        <li key={index}>
-          {item}
-        </li>
-      )}
-    </ul>
+    <ul className="list">
+    { array.map((item, index) => 
+      <li key={index}>
+
+        <Link
+          url={item.url}
+          content={item.name}
+          design="btn"
+        />
+      </li>
+    )}
+  </ul>
   )
 }
 
