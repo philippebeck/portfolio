@@ -21,4 +21,9 @@
     background-color: var(--slate);
     color: var(--white);
   }
+
+  &:hover figcaption,
+  &:focus figcaption {
+    color: var(--secondary);
+  }
 }
