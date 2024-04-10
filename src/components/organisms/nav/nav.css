@@ -1,7 +1,7 @@
 nav {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  place-content: space-between;
+  place-items: center;
   position: fixed;
   top: 0;
   box-sizing: border-box;
@@ -20,7 +20,7 @@ nav {
   a {
     &:hover,
     &:focus {
-      color: var(--secondary);
+      color: var(--green);
     }
   }
 
@@ -28,11 +28,24 @@ nav {
     display: none;
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 576px) {
     justify-content: space-around;
-    padding: 5px 0;
+    padding: 4px 0;
+    font-size: 0.9rem;
+
+    ul {
+      gap: 15px;
+    }
+  }
+
+  @media (min-width: 768px) {
+    padding: 6px 0;
     font-size: 1rem;
     text-transform: capitalize;
+
+    ul {
+      gap: 20px;
+    }
 
     a {
       display: flex;
@@ -46,10 +59,22 @@ nav {
     }
   }
 
+  @media (min-width: 992px) {
+    justify-content: space-evenly;
+    padding: 8px 0;
+    font-size: 1.1rem;
+
+    ul {
+      gap: 25px;
+    }
+  }
 
   @media (min-width: 1200px) {
-    justify-content: space-evenly;
     padding: 10px 0;
     font-size: 1.2rem;
+
+    ul {
+      gap: 30px;
+    }
   }
 }
