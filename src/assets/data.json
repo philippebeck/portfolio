@@ -2,241 +2,241 @@
   "blog": {
     "html": [
       {
+        "name": "A Dive into ARIA Attributes of HTML5",
+        "text": "Exploring Usage, Best Practices & Impact of ARIA Attributes for Improved Web Application Accessibility",
+        "image": "blog/html5-aria.webp",
+        "alt": "A blind person equipped with headphones, in front of a computer screen where it is written some Braille symbols under the word ARIA in uppercase",
+        "url": "https://medium.com/@philippebeck/html5-aria-df25efdf6f2b"
+      },
+      {
+        "name": "Avoiding the pitfalls of HTML5",
+        "text": "Common bad practices including div soup, incorrect titles, excessive line breaks, table layout, HTML design & outdated attributes",
+        "image": "blog/html5-bad-practices.webp",
+        "alt": "A traffic sign indicating a direction of prohibition with HTML5 written under this sign",
+        "url": "https://medium.com/@philippebeck/html5-bad-practices-56f2028f698c"
+      },
+      {
         "name": "Discover the Power of HTML5",
         "text": "Uncover the Essence of HTML5 through Tags & Attributes",
-        "image": "blog/html5-tags-attributes-tn.webp",
+        "image": "blog/html5-tags-attributes.webp",
         "alt": "HTML5 Logo",
         "url": "https://medium.com/@philippebeck/html5-tags-attributes-292d6553398c"
       },
       {
         "name": "Essential Tips for Mastering HTML5",
         "text": "A comprehensive guide that covers best practices for indentation, syntax, semantics, attributes, controls & validation for effective HTML5 coding",
-        "image": "blog/html5-best-practices-tn.webp",
+        "image": "blog/html5-best-practices.webp",
         "alt": "A logo with HTML5 written underneath on a sign at the entrance to a business",
         "url": "https://medium.com/@philippebeck/html5-best-practices-09c08cf46c21"
       },
       {
-        "name": "Avoiding the pitfalls of HTML5",
-        "text": "Common bad practices including div soup, incorrect titles, excessive line breaks, table layout, HTML design & outdated attributes",
-        "image": "blog/html5-bad-practices-tn.webp",
-        "alt": "A traffic sign indicating a direction of prohibition with HTML5 written under this sign",
-        "url": "https://medium.com/@philippebeck/html5-bad-practices-56f2028f698c"
+        "name": "Inclusive Web Experiences with HTML5",
+        "text": "Create accessible web content with semantic HTML, form fields, multimedia support, graphics capabilities, geolocation & local storage",
+        "image": "blog/html5-accessibility.webp",
+        "alt": "A large computer screen in front of a user sitting with big glasses on his nose trying to read some text",
+        "url": "https://medium.com/@philippebeck/html5-accessibility-3705d520045d"
+      },
+      {
+        "name": "Maximize performance in HTML5",
+        "text": "Optimize loading, rendering & resource management to deliver an exceptional user experience",
+        "image": "blog/html5-performance.webp",
+        "alt": "a work desk in the shape of a rocket cockpit with a computer in the center ready to take off like a rocket, and a mad scientist around it",
+        "url": "https://medium.com/@philippebeck/html5-performance-5f65346ccf2f"
       },
       {
         "name": "Maximize your Visibility with HTML5",
         "text": "Find out how to use HTML5 to improve your SEO, title & description, image optimization, internal links, page loading & mobile compatibility",
-        "image": "blog/html5-seo-tn.webp",
+        "image": "blog/html5-seo.webp",
         "alt": "A brick wall with a wooden sign where it says SEO",
         "url": "https://medium.com/@philippebeck/html5-seo-c246b5de3cdf"
       },
       {
         "name": "Structured Data in HTML5",
         "text": "Explore how to enhance your SEO by marking up structured data, generating rich snippets & improving accessibility for all users",
-        "image": "blog/html5-structured-data-tn.webp",
+        "image": "blog/html5-structured-data.webp",
         "alt": "A canvas representing the Web, with the terms itemtype & itemprop",
         "url": "https://medium.com/@philippebeck/html5-structured-data-592d4ee05a87"
-      },
-      {
-        "name": "Inclusive Web Experiences with HTML5",
-        "text": "Create accessible web content with semantic HTML, form fields, multimedia support, graphics capabilities, geolocation & local storage",
-        "image": "blog/html5-accessibility-tn.webp",
-        "alt": "A large computer screen in front of a user sitting with big glasses on his nose trying to read some text",
-        "url": "https://medium.com/@philippebeck/html5-accessibility-3705d520045d"
-      },
-      {
-        "name": "A Dive into ARIA Attributes of HTML5",
-        "text": "Exploring Usage, Best Practices & Impact of ARIA Attributes for Improved Web Application Accessibility",
-        "image": "blog/html5-aria-tn.webp",
-        "alt": "A blind person equipped with headphones, in front of a computer screen where it is written some Braille symbols under the word ARIA in uppercase",
-        "url": "https://medium.com/@philippebeck/html5-aria-df25efdf6f2b"
-      },
-      {
-        "name": "Maximize performance in HTML5",
-        "text": "Optimize loading, rendering & resource management to deliver an exceptional user experience",
-        "image": "blog/html5-performance-tn.webp",
-        "alt": "a work desk in the shape of a rocket cockpit with a computer in the center ready to take off like a rocket, and a mad scientist around it",
-        "url": "https://medium.com/@philippebeck/html5-performance-5f65346ccf2f"
       }
     ],
     "css": [
       {
-        "name": "CSS3 Selectors & Properties",
-        "text": "Unleash the Power of Precise Styling with CSS3",
-        "image": "blog/css3-selectors-properties-tn.webp",
-        "alt": "CSS3 Logo",
-        "url": "https://medium.com/@philippebeck/css3-selectors-properties-23f2c8a82fa3"
-      },
-      {
-        "name": "Essential CSS3 Best Practices",
-        "text": "Elevate Your CSS Development with Performance, Maintainability & Cross-Browser Compatibility",
-        "image": "blog/css3-best-practices-tn.webp",
-        "alt": "A modern cafe logo of CSS3, located on a sign outside a stone building on a sunny evening",
-        "url": "https://medium.com/@philippebeck/css3-best-practices-4b9a7f13b17e"
-      },
-      {
         "name": "Avoiding Common Pitfalls in CSS3",
         "text": "A Guide to Writing Maintainable Styles, learn how to steer clear of bad practices & maintain clean, efficient CSS code",
-        "image": "blog/css3-bad-practices-tn.webp",
+        "image": "blog/css3-bad-practices.webp",
         "alt": "A traffic sign indicating a ban direction with a computer behind the ban & CSS3 written under this sign, with cars & streets in background",
         "url": "https://medium.com/@philippebeck/css3-bad-practices-0c8453786c84"
       },
       {
-        "name": "Discovering CSS3 Layout",
-        "text": "Learn to create flexible & responsive web layouts using the latest CSS3 techniques",
-        "image": "blog/css3-layout-tn.webp",
-        "alt": "A man in front of a big computer screen positioning elements with digital gloves & pen",
-        "url": "https://medium.com/@philippebeck/css3-layout-826f4acaa50d"
-      },
-      {
-        "name": "Enhancing Web Design with CSS3 Functions",
-        "text": "Leveraging the Power of Dynamic Styling for Modern Web Development",
-        "image": "blog/css3-functions-tn.webp",
-        "alt": "A robot with the word CSS3 write on his body, with many arms doing differents things on a wide screen",
-        "url": "https://medium.com/@philippebeck/css3-functions-339dba7bb123"
-      },
-      {
-        "name": "Embracing Mobile First",
-        "text": "Revolutionizing Responsive Web Design with CSS3",
-        "image": "blog/css3-mobile-first-tn.webp",
-        "alt": "A race on an Olympic field, between runners represented by machines, like mobile phone, tablet & desktop",
-        "url": "https://medium.com/@philippebeck/css3-mobile-first-79ef48249a7c"
-      },
-      {
-        "name": "Flexbox: A Guide to Modern Layouts",
-        "text": "Empowering Dynamic & Adaptive CSS Layouts",
-        "image": "blog/css3-mastering-flexbox-tn.webp",
-        "alt": "A flexible box containing a multitude of forms of various media resources",
-        "url": "https://medium.com/@philippebeck/css3-mastering-flexbox-2f79017644d8"
+        "name": "CSS3 Selectors & Properties",
+        "text": "Unleash the Power of Precise Styling with CSS3",
+        "image": "blog/css3-selectors-properties.webp",
+        "alt": "CSS3 Logo",
+        "url": "https://medium.com/@philippebeck/css3-selectors-properties-23f2c8a82fa3"
       },
       {
         "name": "CSS3 Transitions & Animations",
         "text": "Mastering the Art of Dynamic Web Design with Transitions & Animations",
-        "image": "blog/css3-transitions-animations-tn.webp",
+        "image": "blog/css3-transitions-animations.webp",
         "alt": "A video reel showing a step-by-step animation, with loop, objects & people",
         "url": "https://medium.com/@philippebeck/css3-transitions-animations-5b3a08756b22"
+      },
+      {
+        "name": "Discovering CSS3 Layout",
+        "text": "Learn to create flexible & responsive web layouts using the latest CSS3 techniques",
+        "image": "blog/css3-layout.webp",
+        "alt": "A man in front of a big computer screen positioning elements with digital gloves & pen",
+        "url": "https://medium.com/@philippebeck/css3-layout-826f4acaa50d"
+      },
+      {
+        "name": "Embracing Mobile First",
+        "text": "Revolutionizing Responsive Web Design with CSS3",
+        "image": "blog/css3-mobile-first.webp",
+        "alt": "A race on an Olympic field, between runners represented by machines, like mobile phone, tablet & desktop",
+        "url": "https://medium.com/@philippebeck/css3-mobile-first-79ef48249a7c"
+      },
+      {
+        "name": "Enhancing Web Design with CSS3 Functions",
+        "text": "Leveraging the Power of Dynamic Styling for Modern Web Development",
+        "image": "blog/css3-functions.webp",
+        "alt": "A robot with the word CSS3 write on his body, with many arms doing differents things on a wide screen",
+        "url": "https://medium.com/@philippebeck/css3-functions-339dba7bb123"
+      },
+      {
+        "name": "Essential CSS3 Best Practices",
+        "text": "Elevate Your CSS Development with Performance, Maintainability & Cross-Browser Compatibility",
+        "image": "blog/css3-best-practices.webp",
+        "alt": "A modern cafe logo of CSS3, located on a sign outside a stone building on a sunny evening",
+        "url": "https://medium.com/@philippebeck/css3-best-practices-4b9a7f13b17e"
+      },
+      {
+        "name": "Flexbox: A Guide to Modern Layouts",
+        "text": "Empowering Dynamic & Adaptive CSS Layouts",
+        "image": "blog/css3-mastering-flexbox.webp",
+        "alt": "A flexible box containing a multitude of forms of various media resources",
+        "url": "https://medium.com/@philippebeck/css3-mastering-flexbox-2f79017644d8"
       }
     ],
     "js": [
       {
-        "name": "Mastering JavaScript : Basic Concepts",
-        "text": "A Comprehensive Guide to JavaScript Variables, Conditions & Loops",
-        "image": "blog/mastering-javascript-basic-concepts-tn.webp",
-        "alt": "JavaScript Logo",
-        "url": "https://medium.com/@philippebeck/mastering-javascript-basic-concepts-d2898687be99"
-      },
-      {
-        "name": "Manipulate the DOM with JavaScript",
-        "text": "An Efficient Guide to Unlock the Power of Dynamic Web Content with JavaScript DOM Manipulation",
-        "image": "blog/manipulate-the-dom-with-javascript-tn.webp",
-        "alt": "A robot with JS write on his body who manipulate various objects in front of a screen",
-        "url": "https://medium.com/@philippebeck/manipulate-the-dom-with-javascript-efd69cf733de"
-      },
-      {
-        "name": "Mastering JavaScript Functions",
-        "text": "A Comprehensive Guide to discover the Fundamentals & Advanced Tips for Using JavaScript Functions Effectively",
-        "image": "blog/mastering-javascript-functions-tn.webp",
-        "alt": "A machine on which it says JS Functions, with above various blocks of information which seem to fall into it",
-        "url": "https://medium.com/@philippebeck/mastering-javascript-functions-d6ab05129b8f"
-      },
-      {
-        "name": "Error Handling in JavaScript",
-        "text": "Best Practices & Strategies: mastering error handling to improve code reliability & user experience",
-        "image": "blog/error-handling-in-javascript-tn.webp",
-        "alt": "A traffic sign indicating a ban direction with robots who have the letters JS on their head behind the ban & the word Errors written under this sign, with messenger robots driving in streets behind it",
-        "url": "https://medium.com/@philippebeck/error-handling-in-javascript-05af95d174bf"
-      },
-      {
-        "name": "Best Practices in JavaScript",
-        "text": "Enhance Your JavaScript Code Quality with These Essential Tips",
-        "image": "blog/best-practices-in-javascript-tn.webp",
-        "alt": "A logo with JS written underneath on a sign at the entrance to a business",
-        "url": "https://medium.com/@philippebeck/best-practices-in-javascript-d4af4202a41e"
-      },
-      {
         "name": "Avoiding JavaScript Pitfalls",
         "text": "Discover common mistakes to avoid for better JavaScript code",
-        "image": "blog/avoiding-javascript-pitfalls-tn.webp",
+        "image": "blog/avoiding-javascript-pitfalls.webp",
         "alt": "A traffic sign indicating a ban direction with the 2 letters JS behind the ban & the word Bad Practices written under this sign",
         "url": "https://medium.com/@philippebeck/avoiding-javascript-pitfalls-8413e0e3f92e"
       },
       {
-        "name": "Unveiling the Secrets of the String Object",
-        "text": "Explore the Powerful String Manipulation Features of JavaScript",
-        "image": "blog/unveiling-the-secrets-of-the-string-object-tn.webp",
-        "alt": "Letters falling, with technology objects & cogs around a strange object who have words & a curious string inside it, pointing the sun & clouds, with a woman on it side",
-        "url": "https://medium.com/@philippebeck/unveiling-the-secrets-of-the-string-object-11943b624dc2"
+        "name": "Best Practices in JavaScript",
+        "text": "Enhance Your JavaScript Code Quality with These Essential Tips",
+        "image": "blog/best-practices-in-javascript.webp",
+        "alt": "A logo with JS written underneath on a sign at the entrance to a business",
+        "url": "https://medium.com/@philippebeck/best-practices-in-javascript-d4af4202a41e"
+      },
+      {
+        "name": "Error Handling in JavaScript",
+        "text": "Best Practices & Strategies: mastering error handling to improve code reliability & user experience",
+        "image": "blog/error-handling-in-javascript.webp",
+        "alt": "A traffic sign indicating a ban direction with robots who have the letters JS on their head behind the ban & the word Errors written under this sign, with messenger robots driving in streets behind it",
+        "url": "https://medium.com/@philippebeck/error-handling-in-javascript-05af95d174bf"
+      },
+      {
+        "name": "Manipulate the DOM with JavaScript",
+        "text": "An Efficient Guide to Unlock the Power of Dynamic Web Content with JavaScript DOM Manipulation",
+        "image": "blog/manipulate-the-dom-with-javascript.webp",
+        "alt": "A robot with JS write on his body who manipulate various objects in front of a screen",
+        "url": "https://medium.com/@philippebeck/manipulate-the-dom-with-javascript-efd69cf733de"
       },
       {
         "name": "Mastering Arrays in JavaScript",
         "text": "Explore essential functions & best practices for efficiently manipulating arrays, including map, filter, reduce & much more",
-        "image": "blog/mastering-arrays-in-javascript-tn.webp",
+        "image": "blog/mastering-arrays-in-javascript.webp",
         "alt": "A tablet where we see a man with a cat’s head and some data like graphs on screens around this tablet with names of the methods of the Array object",
         "url": "https://medium.com/@philippebeck/mastering-arrays-in-javascript-3110c906d6fb"
+      },
+      {
+        "name": "Mastering JavaScript : Basic Concepts",
+        "text": "A Comprehensive Guide to JavaScript Variables, Conditions & Loops",
+        "image": "blog/mastering-javascript-basic-concepts.webp",
+        "alt": "JavaScript Logo",
+        "url": "https://medium.com/@philippebeck/mastering-javascript-basic-concepts-d2898687be99"
+      },
+      {
+        "name": "Mastering JavaScript Functions",
+        "text": "A Comprehensive Guide to discover the Fundamentals & Advanced Tips for Using JavaScript Functions Effectively",
+        "image": "blog/mastering-javascript-functions.webp",
+        "alt": "A machine on which it says JS Functions, with above various blocks of information which seem to fall into it",
+        "url": "https://medium.com/@philippebeck/mastering-javascript-functions-d6ab05129b8f"
+      },
+      {
+        "name": "Unveiling the Secrets of the String Object",
+        "text": "Explore the Powerful String Manipulation Features of JavaScript",
+        "image": "blog/unveiling-the-secrets-of-the-string-object.webp",
+        "alt": "Letters falling, with technology objects & cogs around a strange object who have words & a curious string inside it, pointing the sun & clouds, with a woman on it side",
+        "url": "https://medium.com/@philippebeck/unveiling-the-secrets-of-the-string-object-11943b624dc2"
       }
     ],
     "php": [
       {
-        "name": "Discovering PHP Basics",
-        "text": "A comprehensive guide to getting started with PHP & understanding essential concepts",
-        "image": "blog/discovering-php-basics-tn.webp",
-        "alt": "PHP Logo",
-        "url": "https://medium.com/@philippebeck/discovering-php-basics-4601e74c488e"
-      },
-      {
-        "name": "OOP & MVC in PHP",
-        "text": "Understanding Object-Oriented Programming & Model-View-Controller Architecture in PHP : A Comprehensive Guide",
-        "image": "blog/oop-mvc-in-php-tn.webp",
-        "alt": "A factory production chain with the name : PHP Factory, with 3 separated sections where each section have a name of those following : Model, View & Controller",
-        "url": "https://medium.com/@philippebeck/oop-mvc-in-php-c0a373d7d18a"
-      },
-      {
-        "name": "Mastering PHP Array Functions",
-        "text": "Discover Essential Functions for Manipulating & Managing Arrays in PHP, Including Sorting, Filtering & Transformation Functions",
-        "image": "blog/mastering-php-array-functions-tn.webp",
-        "alt": "The 3 letters PHP is wrote in the center of the image, with around many screens of various data arrays, these all things between 2 opened human hands",
-        "url": "https://medium.com/@philippebeck/mastering-php-array-functions-0038dd2a076d"
-      },
-      {
         "name": "Demystifying PHP Superglobals",
         "text": "A Comprehensive Guide : Unraveling the Power & Pitfalls of PHP Superglobals",
-        "image": "blog/demystifying-php-superglobals-tn.webp",
+        "image": "blog/demystifying-php-superglobals.webp",
         "alt": "4 robots with writing above their heads => GET, POST, ENV & SERVER",
         "url": "https://medium.com/@philippebeck/demystifying-php-superglobals-7b24c3cc450f"
       },
       {
-        "name": "Mastering String Functions in PHP",
-        "text": "Discover PHP’s native string manipulation functions & learn how to use them effectively",
-        "image": "blog/mastering-string-functions-in-php-tn.webp",
-        "alt": "A strange object inside 4 hands, with PHP written in the center & curiously shaped buttons, all surrounded by various character strings",
-        "url": "https://medium.com/@philippebeck/mastering-string-functions-in-php-997775b1e8da"
+        "name": "Discovering PHP Basics",
+        "text": "A comprehensive guide to getting started with PHP & understanding essential concepts",
+        "image": "blog/discovering-php-basics.webp",
+        "alt": "PHP Logo",
+        "url": "https://medium.com/@philippebeck/discovering-php-basics-4601e74c488e"
+      },
+      {
+        "name": "Discover PHP Date/Time Functions",
+        "text": "Learn How to Manipulate Dates & Times in PHP Like a Pro",
+        "image": "blog/discover-php-date-time-functions.webp",
+        "alt": "A very graphical calendar with the word PHP & an old clock in an imaginary world",
+        "url": "https://medium.com/@philippebeck/discover-php-date-time-functions-781876b43b95"
       },
       {
         "name": "Exploring Number Manipulation in PHP",
         "text": "A comprehensive guide to working with numbers in PHP, from basic operations to advanced techniques",
-        "image": "blog/exploring-number-manipulation-in-php-tn.webp",
+        "image": "blog/exploring-number-manipulation-in-php.webp",
         "alt": "A world of numbers, with landscapes & people",
         "url": "https://medium.com/@philippebeck/exploring-number-manipulation-in-php-e51c85b44630"
       },
       {
         "name": "Main Best Practices in PHP",
         "text": "Explore essential PHP best practices for clean, efficient & maintainable code",
-        "image": "blog/main-best-practices-in-php-tn.webp",
+        "image": "blog/main-best-practices-in-php.webp",
         "alt": "A modern web agency in a small street, with the PHP logo as an entrance sign",
         "url": "https://medium.com/@philippebeck/main-best-practices-in-php-ceff378df8f1"
       },
       {
-        "name": "Discover PHP Date/Time Functions",
-        "text": "Learn How to Manipulate Dates & Times in PHP Like a Pro",
-        "image": "blog/discover-php-date-time-functions-tn.webp",
-        "alt": "A very graphical calendar with the word PHP & an old clock in an imaginary world",
-        "url": "https://medium.com/@philippebeck/discover-php-date-time-functions-781876b43b95"
+        "name": "Mastering PHP Array Functions",
+        "text": "Discover Essential Functions for Manipulating & Managing Arrays in PHP, Including Sorting, Filtering & Transformation Functions",
+        "image": "blog/mastering-php-array-functions.webp",
+        "alt": "The 3 letters PHP is wrote in the center of the image, with around many screens of various data arrays, these all things between 2 opened human hands",
+        "url": "https://medium.com/@philippebeck/mastering-php-array-functions-0038dd2a076d"
+      },
+      {
+        "name": "Mastering String Functions in PHP",
+        "text": "Discover PHP’s native string manipulation functions & learn how to use them effectively",
+        "image": "blog/mastering-string-functions-in-php.webp",
+        "alt": "A strange object inside 4 hands, with PHP written in the center & curiously shaped buttons, all surrounded by various character strings",
+        "url": "https://medium.com/@philippebeck/mastering-string-functions-in-php-997775b1e8da"
+      },
+      {
+        "name": "OOP & MVC in PHP",
+        "text": "Understanding Object-Oriented Programming & Model-View-Controller Architecture in PHP : A Comprehensive Guide",
+        "image": "blog/oop-mvc-in-php.webp",
+        "alt": "A factory production chain with the name : PHP Factory, with 3 separated sections where each section have a name of those following : Model, View & Controller",
+        "url": "https://medium.com/@philippebeck/oop-mvc-in-php-c0a373d7d18a"
       }
     ],
     "sass": [
       {
         "name": "Unraveling the Magic of Sass",
         "text": "A Beginner’s Guide to Sass Basics: Discover the Power & Flexibility of Sass & Accelerate Your CSS Development",
-        "image": "blog/unraveling-the-magic-of-sass-tn.webp",
+        "image": "blog/unraveling-the-magic-of-sass.webp",
         "alt": "Sass Logo",
         "url": "https://medium.com/@philippebeck/unraveling-the-magic-of-sass-d18aeffe40c4"
       }
@@ -279,7 +279,7 @@
       }
     ],
     "header": [
-      "I am passionate about IT & the web, space & robotics, geology & astronomy, manga & video games.",
+      "I am passionate about IT & Web, space & robotics, geology & astronomy, Korean drama & Sci-Fi, manga & video games.",
       "Open-minded & constantly alert, research & learning are closely linked to my personality.",
       "Senior Fullstack developer on various technologies ; creator of open-source packages in Sass, Vue & Node on NPM.",
       "Independent trainer, senior mentor & evaluator for OpenClassrooms ; author of articles for developers on Medium."
@@ -332,92 +332,92 @@
   "links": {
     "html": [
       {
-        "name": "Référence HTML",
-        "url": "developer.mozilla.org/fr/docs/Web/HTML/Reference"
-      },
-      {
-        "name": "Pug",
-        "url": "pugjs.org/api/getting-started.html"
-      },
-      {
-        "name": "Twig",
-        "url": "twig.symfony.com"
-      },
-      {
-        "name": "MarkDown",
-        "url": "www.markdownguide.org"
-      },
-      {
-        "name": "Validateur HTML",
-        "url": "validator.w3.org"
-      },
-      {
-        "name": "Images adaptatives",
-        "url": "developer.mozilla.org/fr/docs/learn/html/multimedia_and_embedding/responsive_images"
-      },
-      {
-        "name": "Sitemaps XML",
-        "url": "www.xml-sitemaps.com"
-      },
-      {
-        "name": "Convertisseur MD -> HTML",
-        "url": "markdowntohtml.com"
-      },
-      {
-        "name": "Haml",
-        "url": "haml.info"
-      },
-      {
-        "name": "Eléments HTML",
-        "url": "developer.mozilla.org/fr/docs/Web/HTML/Element"
-      },
-      {
-        "name": "Attributs HTML",
-        "url": "developer.mozilla.org/fr/docs/Web/HTML/Attributes"
-      },
-      {
-        "name": "Attributs universels",
-        "url": "developer.mozilla.org/fr/docs/Web/HTML/Global_attributes"
+        "name": "Accessibility Validator",
+        "url": "achecker.achecks.ca/checker/index.php"
       },
       {
         "name": "Button",
         "url": "dequeuniversity.com/rules/axe/4.6/button-name"
       },
       {
-        "name": "Convertisseur HTML -> PDF",
-        "url": "html2pdf.com/fr"
-      },
-      {
-        "name": "Validateur accessibilité",
-        "url": "achecker.achecks.ca/checker/index.php"
-      },
-      {
-        "name": "Validateur de liens",
-        "url": "validator.w3.org/checklink"
-      },
-      {
-        "name": "Validateur international",
-        "url": "validator.w3.org/i18n-checker"
-      },
-      {
-        "name": "Résultats enrichis",
-        "url": "search.google.com/test/rich-results"
-      },
-      {
-        "name": "Données structurées",
-        "url": "schema.org"
-      },
-      {
-        "name": "Vidéo poster dynamique",
+        "name": "Dynamic Poster Video",
         "url": "stackoverflow.com/questions/7323053/dynamically-using-the-first-frame-as-poster-in-html5-vid"
       },
       {
-        "name": "Séparateur balise <option>",
+        "name": "Global Attributes",
+        "url": "developer.mozilla.org/fr/docs/Web/HTML/Global_attributes"
+      },
+      {
+        "name": "Haml",
+        "url": "haml.info"
+      },
+      {
+        "name": "HTML -> PDF Converter",
+        "url": "html2pdf.com/fr"
+      },
+      {
+        "name": "HTML Attributes",
+        "url": "developer.mozilla.org/fr/docs/Web/HTML/Attributes"
+      },
+      {
+        "name": "HTML Element",
+        "url": "developer.mozilla.org/fr/docs/Web/HTML/Element"
+      },
+      {
+        "name": "HTML Reference",
+        "url": "developer.mozilla.org/fr/docs/Web/HTML/Reference"
+      },
+      {
+        "name": "HTML Validator",
+        "url": "validator.w3.org"
+      },
+      {
+        "name": "International Validator",
+        "url": "validator.w3.org/i18n-checker"
+      },
+      {
+        "name": "Link Validator",
+        "url": "validator.w3.org/checklink"
+      },
+      {
+        "name": "MarkDown",
+        "url": "www.markdownguide.org"
+      },
+      {
+        "name": "MD -> HTML Converter",
+        "url": "markdowntohtml.com"
+      },
+      {
+        "name": "Nested Tags",
+        "url": "dev.to/masakudamatsu/don-t-nest-nav-inside-header-do-nest-the-hamburger-menu-button-inside-n"
+      },
+      {
+        "name": "Option Tag Separator",
         "url": "stackoverflow.com/questions/899148/html-select-option-separator"
       },
       {
-        "name": "Balises imbriquées",
-        "url": "dev.to/masakudamatsu/don-t-nest-nav-inside-header-do-nest-the-hamburger-menu-button-inside-n"
+        "name": "Pug",
+        "url": "pugjs.org/api/getting-started.html"
+      },
+      {
+        "name": "Responsive Images",
+        "url": "developer.mozilla.org/fr/docs/learn/html/multimedia_and_embedding/responsive_images"
+      },
+      {
+        "name": "Rich Results",
+        "url": "search.google.com/test/rich-results"
+      },
+      {
+        "name": "Structured Data",
+        "url": "schema.org"
+      },
+      {
+        "name": "Twig",
+        "url": "twig.symfony.com"
+      },
+      {
+        "name": "XML Sitemaps",
+        "url": "www.xml-sitemaps.com"
       },
       {
         "name": "Wave Web Accessibility Tool",
@@ -426,12 +426,8 @@
     ],
     "css": [
       {
-        "name": "Référence CSS",
-        "url": "developer.mozilla.org/fr/docs/Web/CSS/Reference"
-      },
-      {
-        "name": "Sélecteurs CSS",
-        "url": "developer.mozilla.org/fr/docs/Web/CSS/CSS_Selectors"
+        "name": "30 CSS Selectors",
+        "url": "code.tutsplus.com/fr/tutorials/the-30-css-selectors-you-must-memorize--net-16048"
       },
       {
         "name": "Animadio",
@@ -442,40 +438,100 @@
         "url": "getbootstrap.com"
       },
       {
+        "name": "Bootswatch",
+        "url": "bootswatch.com"
+      },
+      {
         "name": "Bulma",
         "url": "bulma.io"
       },
       {
-        "name": "Foundation",
-        "url": "get.foundation"
+        "name": "Color Contrast",
+        "url": "dequeuniversity.com/rules/axe/4.6/color-contrast"
       },
       {
-        "name": "Materialize",
-        "url": "materializecss.com"
+        "name": "CSS Battle",
+        "url": "cssbattle.dev"
       },
       {
-        "name": "Pure",
-        "url": "purecss.io"
+        "name": "CSS Measurement Units",
+        "url": "graphiste.com/blog/unites-mesure-css"
       },
       {
-        "name": "Tailwind CSS",
-        "url": "tailwindcss.com"
+        "name": "CSS Reference",
+        "url": "developer.mozilla.org/fr/docs/Web/CSS/Reference"
+      },
+      {
+        "name": "CSS Selectors",
+        "url": "developer.mozilla.org/fr/docs/Web/CSS/CSS_Selectors"
+      },
+      {
+        "name": "CSS Specs",
+        "url": "www.w3.org/Style/CSS"
+      },
+      {
+        "name": "CSS Tricks",
+        "url": "css-tricks.com"
+      },
+      {
+        "name": "CSS Validator",
+        "url": "jigsaw.w3.org/css-validator"
       },
       {
         "name": "Flexbox Froggy",
         "url": "flexboxfroggy.com"
       },
       {
-        "name": "Grid Garden",
-        "url": "cssgridgarden.com"
+        "name": "Flexbox Guide",
+        "url": "css-tricks.com/snippets/css/a-guide-to-flexbox"
       },
       {
         "name": "Font Awesome",
         "url": "fontawesome.com"
       },
       {
+        "name": "Font Squirrel",
+        "url": "www.fontsquirrel.com"
+      },
+      {
+        "name": "Foundation",
+        "url": "get.foundation"
+      },
+      {
+        "name": "Google Fonts",
+        "url": "fonts.google.com"
+      },
+      {
+        "name": "Grid Garden",
+        "url": "cssgridgarden.com"
+      },
+      {
+        "name": "Grid Guide",
+        "url": "css-tricks.com/snippets/css/complete-guide-grid"
+      },
+      {
         "name": "Less",
         "url": "lesscss.org"
+      },
+      {
+        "name": "Materialize",
+        "url": "materializecss.com"
+      },
+      {
+        "name": "Mobile-First",
+        "url": "css-tricks.com/how-to-develop-and-test-a-mobile-first-design-in-2021"
+      },
+      {
+        "name": "Online Web Fonts",
+        "url": "www.onlinewebfonts.com/fonts"
+      },
+      {
+        "name": "Pure",
+        "url": "purecss.io"
+      },
+      {
+        "name": "Rem vs em",
+        "url": "medium.com/codeshake/unit%C3%A9s-de-mesures-em-vs-rem-eac03dbcb9c7"
       },
       {
         "name": "Sass",
@@ -486,134 +542,78 @@
         "url": "stylus-lang.com"
       },
       {
-        "name": "CSS Officiel",
-        "url": "www.w3.org/Style/CSS"
-      },
-      {
-        "name": "Guide Flexbox",
-        "url": "css-tricks.com/snippets/css/a-guide-to-flexbox"
-      },
-      {
-        "name": "Guide Grid",
-        "url": "css-tricks.com/snippets/css/complete-guide-grid"
-      },
-      {
-        "name": "Mobile-First",
-        "url": "css-tricks.com/how-to-develop-and-test-a-mobile-first-design-in-2021"
-      },
-      {
-        "name": "Bootswatch",
-        "url": "bootswatch.com"
-      },
-      {
-        "name": "CSS-Tricks",
-        "url": "css-tricks.com"
-      },
-      {
-        "name": "Font Squirrel",
-        "url": "www.fontsquirrel.com"
-      },
-      {
-        "name": "Google Fonts",
-        "url": "fonts.google.com"
-      },
-      {
-        "name": "Online Web Fonts",
-        "url": "www.onlinewebfonts.com/fonts"
-      },
-      {
-        "name": "Validateur CSS",
-        "url": "jigsaw.w3.org/css-validator"
-      },
-      {
-        "name": "Unités mesure CSS",
-        "url": "graphiste.com/blog/unites-mesure-css"
-      },
-      {
-        "name": "Rem vs em",
-        "url": "medium.com/codeshake/unit%C3%A9s-de-mesures-em-vs-rem-eac03dbcb9c7"
-      },
-      {
-        "name": "Vue Style",
-        "url": "www.thisdot.co/blog/styling-vue-single-file-components"
+        "name": "Tailwind CSS",
+        "url": "tailwindcss.com"
       },
       {
         "name": "Web Color",
         "url": "web-color.aliasdmc.fr/couleurs-hexa-rgb-hsl-predefini-html-css.php"
-      },
-      {
-        "name": "30 selecteurs CSS",
-        "url": "code.tutsplus.com/fr/tutorials/the-30-css-selectors-you-must-memorize--net-16048"
-      },
-      {
-        "name": "Contraste couleurs",
-        "url": "dequeuniversity.com/rules/axe/4.6/color-contrast"
-      },
-      {
-        "name": "CSS Battle",
-        "url": "cssbattle.dev"
       }
     ],
     "js": [
       {
-        "name": "Référence JavaScript",
-        "url": "developer.mozilla.org/fr/docs/Web/JavaScript/Reference"
-      },
-      {
-        "name": "Mode strict",
-        "url": "developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Strict_mode"
-      },
-      {
-        "name": "CDNJS",
-        "url": "cdnjs.com"
-      },
-      {
-        "name": "JSDelivr",
-        "url": "www.jsdelivr.com"
-      },
-      {
-        "name": "UNPKG",
-        "url": "unpkg.com"
+        "name": "10 JS Best Pratices",
+        "url": "delicious-insights.com/fr/blog-et-tutos/dix-bonnes-pratiques-javascript"
       },
       {
         "name": "Angular",
         "url": "angular.io"
       },
       {
-        "name": "Ember",
-        "url": "emberjs.com"
+        "name": "Avoid default export",
+        "url": "medium.com/@islizeqiang/why-you-should-avoid-default-exports-in-javascript-modules-7d087dde7"
       },
       {
-        "name": "Cordova",
-        "url": "cordova.apache.org"
-      },
-      {
-        "name": "Ionic",
-        "url": "ionicframework.com"
+        "name": "Axios vs Fetch",
+        "url": "www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests"
       },
       {
         "name": "Babel",
         "url": "babeljs.io"
       },
       {
+        "name": "BabylonJS",
+        "url": "www.babylonjs.com"
+      },
+      {
+        "name": "CDNJS",
+        "url": "cdnjs.com"
+      },
+      {
+        "name": "Check Array Value",
+        "url": "www.samanthaming.com/tidbits/81-how-to-check-if-array-includes-a-value"
+      },
+      {
         "name": "CoffeeScript",
         "url": "coffeescript.org"
       },
       {
-        "name": "LiveScript",
-        "url": "livescript.net"
+        "name": "Const",
+        "url": "www.w3schools.com/js/js_const.asp"
       },
       {
-        "name": "TypeScript",
-        "url": "www.typescriptlang.org"
+        "name": "Converting String to Array",
+        "url": "dev.to/sanchithasr/6-ways-to-convert-a-string-to-an-array-in-javascript-1cjg"
       },
       {
-        "name": "Slack LearnJS",
-        "url": "learnjs.slack.com"
+        "name": "Cordova",
+        "url": "cordova.apache.org"
+      },
+      {
+        "name": "Cypress",
+        "url": "www.cypress.io"
+      },
+      {
+        "name": "D3",
+        "url": "d3js.org"
       },
       {
         "name": "Ecma",
         "url": "www.ecma-international.org"
+      },
+      {
+        "name": "Ember",
+        "url": "emberjs.com"
       },
       {
         "name": "Grunt",
@@ -624,28 +624,52 @@
         "url": "gulpjs.com"
       },
       {
-        "name": "Doc Web API",
-        "url": "developer.mozilla.org/fr/docs/Web/API"
+        "name": "How to become a 10x dev",
+        "url": "dev.to/idboussadel/how-to-become-a-10x-dev-ake"
       },
       {
-        "name": "JavaScript Moderne",
-        "url": "javascript.info"
+        "name": "Ionic",
+        "url": "ionicframework.com"
       },
       {
-        "name": "BabylonJS",
-        "url": "www.babylonjs.com"
+        "name": "JavaScript Reference",
+        "url": "developer.mozilla.org/fr/docs/Web/JavaScript/Reference"
       },
       {
-        "name": "D3",
-        "url": "d3js.org"
+        "name": "Jest",
+        "url": "jestjs.io"
+      },
+      {
+        "name": "Johnny-Five",
+        "url": "johnny-five.io"
+      },
+      {
+        "name": "JSDelivr",
+        "url": "www.jsdelivr.com"
+      },
+      {
+        "name": "LiveScript",
+        "url": "livescript.net"
       },
       {
         "name": "MelonJS",
         "url": "www.melonjs.org"
       },
       {
-        "name": "Johnny-Five",
-        "url": "johnny-five.io"
+        "name": "Mock process.env",
+        "url": "medium.com/weekly-webtips/how-to-mock-process-env-when-writing-unit-tests-with-jest-80940f36"
+      },
+      {
+        "name": "Modern JavaScript",
+        "url": "javascript.info"
+      },
+      {
+        "name": "Naming Convention",
+        "url": "jeremiechazelle.dev/comment-ecrire-du-javascript-convention-de-nommage"
+      },
+      {
+        "name": "Number Converter",
+        "url": "dev.to/sanchithasr/7-ways-to-convert-a-string-to-number-in-javascript-4l"
       },
       {
         "name": "React",
@@ -656,121 +680,109 @@
         "url": "reactnative.dev"
       },
       {
-        "name": "Convertion en nombre",
-        "url": "dev.to/sanchithasr/7-ways-to-convert-a-string-to-number-in-javascript-4l"
-      },
-      {
-        "name": "Convertion en tableau",
-        "url": "dev.to/sanchithasr/6-ways-to-convert-a-string-to-an-array-in-javascript-1cjg"
-      },
-      {
-        "name": "Cypress",
-        "url": "www.cypress.io"
-      },
-      {
-        "name": "Encodage de texte",
-        "url": "buzut.net/gerer-les-encodages-de-texte-en-javascript"
-      },
-      {
-        "name": "Check array value",
-        "url": "www.samanthaming.com/tidbits/81-how-to-check-if-array-includes-a-value"
-      },
-      {
-        "name": "10 bonnes pratiques JS",
-        "url": "delicious-insights.com/fr/blog-et-tutos/dix-bonnes-pratiques-javascript"
-      },
-      {
-        "name": "Jest",
-        "url": "jestjs.io/fr"
-      },
-      {
-        "name": "Unit Test Framework",
-        "url": "vitest.dev"
-      },
-      {
-        "name": "Convention nommage",
-        "url": "jeremiechazelle.dev/comment-ecrire-du-javascript-convention-de-nommage"
-      },
-      {
-        "name": "Axios vs Fetch",
-        "url": "www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests"
-      },
-      {
         "name": "Scopes",
         "url": "blog.webdevsimplified.com/2022-10/js-scoping"
       },
       {
-        "name": "var, let or const",
+        "name": "Slack LearnJS",
+        "url": "learnjs.slack.com"
+      },
+      {
+        "name": "Strict Mode",
+        "url": "developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Strict_mode"
+      },
+      {
+        "name": "Text Encoding",
+        "url": "buzut.net/gerer-les-encodages-de-texte-en-javascript"
+      },
+      {
+        "name": "TypeScript",
+        "url": "www.typescriptlang.org"
+      },
+      {
+        "name": "UNPKG",
+        "url": "unpkg.com"
+      },
+      {
+        "name": "Var, Let or Const",
         "url": "andy-carter.com/blog/variable-scope-in-modern-javascript"
       },
       {
-        "name": "const",
-        "url": "www.w3schools.com/js/js_const.asp"
+        "name": "Vitest",
+        "url": "vitest.dev"
       },
       {
-        "name": "Mock process.env",
-        "url": "medium.com/weekly-webtips/how-to-mock-process-env-when-writing-unit-tests-with-jest-80940f36"
-      },
-      {
-        "name": "Avoid default export",
-        "url": "medium.com/@islizeqiang/why-you-should-avoid-default-exports-in-javascript-modules-7d087dde7"
-      },
-      {
-        "name": "How to become a 10x dev",
-        "url": "dev.to/idboussadel/how-to-become-a-10x-dev-ake"
+        "name": "Web API Doc",
+        "url": "developer.mozilla.org/fr/docs/Web/API"
       }
     ],
     "vue": [
       {
-        "name": "Vue",
-        "url": "vuejs.org"
+        "name": "Auth0 Vue Guide",
+        "url": "auth0.com/blog/complete-guide-to-vue-user-authentication"
+      },
+      {
+        "name": "Jest Test Vue Component",
+        "url": "alexjover.com/blog/write-the-first-vue-js-component-unit-test-in-jest"
+      },
+      {
+        "name": "Jest Test Vue Component by Bugs",
+        "url": "blog.canopas.com/vue-3-component-testing-with-jest-8b80a8a8946b"
+      },
+      {
+        "name": "JWT Vue Guide",
+        "url": "www.bezkoder.com/vue-3-authentication-jwt"
+      },
+      {
+        "name": "Mocking Vue.js Global Objects",
+        "url": "itnext.io/mocking-global-objects-in-vue-test-utils-a8822df013a8"
       },
       {
         "name": "Modul",
         "url": "ulaval.github.io/modul"
       },
       {
-        "name": "Vuetify",
-        "url": "vuetifyjs.com/en"
+        "name": "Pinia",
+        "url": "blog.logrocket.com/consume-apis-vuex-pinia-axios"
       },
       {
-        "name": "Vuesax",
-        "url": "vuesax.com"
+        "name": "Unit Tests Vue Components",
+        "url": "testdriven.io/blog/vue-unit-testing"
       },
       {
-        "name": "Vue console.log",
-        "url": "www.codegrepper.com/code-examples/whatever/how+to+use+console.log+in+vuejs"
+        "name": "Vesan",
+        "url": "www.npmjs.com/package/vesan"
       },
       {
-        "name": "Vue guide auth0",
-        "url": "auth0.com/blog/complete-guide-to-vue-user-authentication"
+        "name": "Vue",
+        "url": "vuejs.org"
       },
       {
-        "name": "Vue guide JWT",
-        "url": "www.bezkoder.com/vue-3-authentication-jwt"
+        "name": "Vue & Jest",
+        "url": "medium.com/@lambrospd/best-practices-in-vue-js-and-jest-514e6eebe1c2"
       },
       {
-        "name": "Vue auth bonnes pratiques",
+        "name": "Vue + Jest Guide",
+        "url": "itnext.io/testing-with-jest-and-vue-js-pocket-guide-7be290d20954"
+      },
+      {
+        "name": "Vue & Jest Tips",
+        "url": "medium.com/swlh/tips-on-unit-testing-vue-components-with-jest-e68ff6a28bb5"
+      },
+      {
+        "name": "Vue Auth Best Practices",
         "url": "blog.sqreen.com/authentication-best-practices-vue"
       },
       {
-        "name": "Vue3 guide fr",
-        "url": "dev.to/ericlecodeur/series/13812"
+        "name": "Vue Console Log",
+        "url": "www.codegrepper.com/code-examples/whatever/how+to+use+console.log+in+vuejs"
       },
       {
-        "name": "Vue3 + Sass",
-        "url": "webdevetc.com/programming-tricks/vue3/vue3-guides/vue-3-global-scss-sass-variables"
+        "name": "Vue External Modules",
+        "url": "blog.pusher.com/building-external-modules-vuejs"
       },
       {
-        "name": "Vue v-model",
-        "url": "dev.to/vcpablo/vuejs-2-different-ways-to-implement-v-model-1mjf"
-      },
-      {
-        "name": "Vue Props vs Data",
-        "url": "michaelnthiessen.com/vue-props-vs-data"
-      },
-      {
-        "name": "Vue script externe",
+        "name": "Vue External Script",
         "url": "vue-view.com/how-to-load-an-external-script-in-vue-component"
       },
       {
@@ -778,7 +790,55 @@
         "url": "blog.fontawesome.com/how-to-use-vue-js-with-font-awesome"
       },
       {
-        "name": "Librairie Vue3",
+        "name": "Vue Modal",
+        "url": "www.digitalocean.com/community/tutorials/vuejs-vue-modal-component"
+      },
+      {
+        "name": "Vue Package",
+        "url": "www.telerik.com/blogs/vuejs-how-to-build-your-first-package-publish-it-on-npm"
+      },
+      {
+        "name": "Vue Props vs Data",
+        "url": "michaelnthiessen.com/vue-props-vs-data"
+      },
+      {
+        "name": "Vue Router Guide",
+        "url": "www.sitepoint.com/a-beginners-guide-to-vue-router"
+      },
+      {
+        "name": "Vue Router Lazy Loading",
+        "url": "router.vuejs.org/guide/advanced/lazy-loading.html"
+      },
+      {
+        "name": "Vue SFC Rollup",
+        "url": "www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library"
+      },
+      {
+        "name": "Vue SFC Vite",
+        "url": "www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library-update"
+      },
+      {
+        "name": "Vue Style",
+        "url": "www.thisdot.co/blog/styling-vue-single-file-components"
+      },
+      {
+        "name": "Vue Template Access Constants",
+        "url": "coderethinked.com/3-different-ways-to-access-constants-in-a-vue-template"
+      },
+      {
+        "name": "Vue V-model",
+        "url": "dev.to/vcpablo/vuejs-2-different-ways-to-implement-v-model-1mjf"
+      },
+      {
+        "name": "Vue3 + Sass",
+        "url": "webdevetc.com/programming-tricks/vue3/vue3-guides/vue-3-global-scss-sass-variables"
+      },
+      {
+        "name": "Vue3 Guide",
+        "url": "dev.to/ericlecodeur/series/13812"
+      },
+      {
+        "name": "Vue3 Library",
         "url": "blog.logrocket.com/building-vue-3-component-library"
       },
       {
@@ -786,24 +846,16 @@
         "url": "stackoverflow.com/questions/64868632/vuejs-3-webpack-problem-with-vue-template-compiler"
       },
       {
-        "name": "Vue Package",
-        "url": "www.telerik.com/blogs/vuejs-how-to-build-your-first-package-publish-it-on-npm"
-      },
-      {
-        "name": "Vue Module Externe",
-        "url": "blog.pusher.com/building-external-modules-vuejs"
-      },
-      {
         "name": "Vuepress Website",
         "url": "www.freecodecamp.org/news/how-to-create-a-documentation-website-using-vuepress-eeabe8a99045"
       },
       {
-        "name": "Vue Sfc Rollup",
-        "url": "www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library"
+        "name": "Vuesax",
+        "url": "vuesax.com"
       },
       {
-        "name": "Pinia",
-        "url": "blog.logrocket.com/consume-apis-vuex-pinia-axios"
+        "name": "Vuetify",
+        "url": "vuetifyjs.com/en"
       },
       {
         "name": "VueX",
@@ -812,68 +864,28 @@
       {
         "name": "VueX Modules",
         "url": "blog.logrocket.com/managing-multiple-store-modules-vuex"
-      },
-      {
-        "name": "Vue modal",
-        "url": "www.digitalocean.com/community/tutorials/vuejs-vue-modal-component"
-      },
-      {
-        "name": "Vue template access constants",
-        "url": "coderethinked.com/3-different-ways-to-access-constants-in-a-vue-template"
-      },
-      {
-        "name": "Vue router guide",
-        "url": "www.sitepoint.com/a-beginners-guide-to-vue-router"
-      },
-      {
-        "name": "Vue router lazy loading",
-        "url": "router.vuejs.org/guide/advanced/lazy-loading.html"
-      },
-      {
-        "name": "Vesan",
-        "url": "www.npmjs.com/package/vesan"
-      },
-      {
-        "name": "Jest test vue component",
-        "url": "alexjover.com/blog/write-the-first-vue-js-component-unit-test-in-jest"
-      },
-      {
-        "name": "Vue & Jest",
-        "url": "medium.com/@lambrospd/best-practices-in-vue-js-and-jest-514e6eebe1c2"
-      },
-      {
-        "name": "Tests unitaires Vue components",
-        "url": "testdriven.io/blog/vue-unit-testing"
-      },
-      {
-        "name": "Vue + Jest guide",
-        "url": "itnext.io/testing-with-jest-and-vue-js-pocket-guide-7be290d20954"
-      },
-      {
-        "name": "Vue & Jest tips",
-        "url": "medium.com/swlh/tips-on-unit-testing-vue-components-with-jest-e68ff6a28bb5"
-      },
-      {
-        "name": "Jest test vue component by bugs",
-        "url": "blog.canopas.com/vue-3-component-testing-with-jest-8b80a8a8946b"
-      },
-      {
-        "name": "Mocking Vue.js global objects",
-        "url": "itnext.io/mocking-global-objects-in-vue-test-utils-a8822df013a8"
-      },
-      {
-        "name": "Vue Sfc Vite",
-        "url": "www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library-update"
       }
     ],
     "node": [
+      {
+        "name": "Electron",
+        "url": "www.electronjs.org"
+      },
       {
         "name": "Express",
         "url": "expressjs.com"
       },
       {
-        "name": "Electron",
-        "url": "www.electronjs.org"
+        "name": "Jest & Supertest for Express & Mongoose",
+        "url": "www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps"
+      },
+      {
+        "name": "Jest Mock Express",
+        "url": "codewithhugo.com/express-request-response-mocking"
+      },
+      {
+        "name": "Nens",
+        "url": "www.npmjs.com/package/nens"
       },
       {
         "name": "Node",
@@ -884,50 +896,18 @@
         "url": "www.npmjs.com"
       },
       {
-        "name": "Yarn",
-        "url": "classic.yarnpkg.com/lang/en"
-      },
-      {
         "name": "Rest API Node/Express",
         "url": "community.bonitasoft.com/blog/building-restful-api-nodejs-and-express"
       },
       {
-        "name": "Jest mock Express",
-        "url": "codewithhugo.com/express-request-response-mocking"
-      },
-      {
-        "name": "Jest & Supertest for Express & Mongoose",
-        "url": "www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps"
-      },
-      {
-        "name": "Nens",
-        "url": "www.npmjs.com/package/nens"
+        "name": "Yarn",
+        "url": "classic.yarnpkg.com/lang/en"
       }
     ],
     "php": [
       {
-        "name": "Manuel PHP",
-        "url": "www.php.net/manual/fr"
-      },
-      {
-        "name": "Drupal",
-        "url": "www.drupal.org"
-      },
-      {
-        "name": "Joomla",
-        "url": "www.joomla.org"
-      },
-      {
-        "name": "PrestaShop",
-        "url": "www.prestashop.com/fr"
-      },
-      {
-        "name": "WordPress",
-        "url": "wordpress.org"
-      },
-      {
-        "name": "XAMPP",
-        "url": "www.apachefriends.org/fr/index.html"
+        "name": "AFSY",
+        "url": "afsy.fr"
       },
       {
         "name": "CakePHP",
@@ -938,6 +918,18 @@
         "url": "codeigniter.com"
       },
       {
+        "name": "Composer",
+        "url": "getcomposer.org"
+      },
+      {
+        "name": "Drupal",
+        "url": "www.drupal.org"
+      },
+      {
+        "name": "Joomla",
+        "url": "www.joomla.org"
+      },
+      {
         "name": "Laminas",
         "url": "getlaminas.org"
       },
@@ -946,28 +938,32 @@
         "url": "laravel.com"
       },
       {
-        "name": "Symfony",
-        "url": "symfony.com"
+        "name": "Lumen",
+        "url": "lumen.laravel.com"
+      },
+      {
+        "name": "Packagist",
+        "url": "packagist.org"
+      },
+      {
+        "name": "PHP Manual",
+        "url": "www.php.net/manual/fr"
+      },
+      {
+        "name": "PHP Official",
+        "url": "www.php.net"
       },
       {
         "name": "PHPUnit",
         "url": "phpunit.de"
       },
       {
-        "name": "Lumen",
-        "url": "lumen.laravel.com"
+        "name": "PrestaShop",
+        "url": "www.prestashop.com/fr"
       },
       {
-        "name": "Slim",
-        "url": "www.slimframework.com"
-      },
-      {
-        "name": "Composer",
-        "url": "getcomposer.org"
-      },
-      {
-        "name": "Packagist",
-        "url": "packagist.org"
+        "name": "PSR",
+        "url": "www.php-fig.org/psr"
       },
       {
         "name": "Slack PHP",
@@ -978,264 +974,356 @@
         "url": "symfony-devs.slack.com"
       },
       {
-        "name": "PHP Officiel",
-        "url": "www.php.net"
+        "name": "Slim",
+        "url": "www.slimframework.com"
       },
       {
-        "name": "PSR",
-        "url": "www.php-fig.org/psr"
+        "name": "Symfony",
+        "url": "symfony.com"
       },
       {
-        "name": "AFSY",
-        "url": "afsy.fr"
+        "name": "WordPress",
+        "url": "wordpress.org"
+      },
+      {
+        "name": "XAMPP",
+        "url": "www.apachefriends.org/fr/index.html"
       }
     ],
     "python": [
       {
-        "name": "Python Doc",
-        "url": "docs.python.org/fr/3"
-      },
-      {
-        "name": "PyGame",
-        "url": "www.pygame.org/news"
-      },
-      {
-        "name": "Panda3D",
-        "url": "www.panda3d.org"
-      },
-      {
-        "name": "Jython",
-        "url": "www.jython.org"
-      },
-      {
-        "name": "IronPython",
-        "url": "ironpython.net"
-      },
-      {
-        "name": "PYJS",
-        "url": "pyjs.org"
-      },
-      {
-        "name": "Brython",
-        "url": "brython.info"
-      },
-      {
-        "name": "Cython",
-        "url": "cython.org"
-      },
-      {
         "name": "Anaconda",
         "url": "www.anaconda.com"
-      },
-      {
-        "name": "SciPy",
-        "url": "scipy.org"
-      },
-      {
-        "name": "Flask",
-        "url": "flask.palletsprojects.com"
-      },
-      {
-        "name": "Django",
-        "url": "www.djangoproject.com"
-      },
-      {
-        "name": "Kivy",
-        "url": "kivy.org/#home"
-      },
-      {
-        "name": "Python",
-        "url": "www.python.org"
-      },
-      {
-        "name": "NumPy",
-        "url": "numpy.org"
-      },
-      {
-        "name": "Numba",
-        "url": "numba.pydata.org"
-      },
-      {
-        "name": "PyData",
-        "url": "pydata.org"
-      },
-      {
-        "name": "NumFocus",
-        "url": "numfocus.org"
-      },
-      {
-        "name": "Biopython",
-        "url": "biopython.org"
-      },
-      {
-        "name": "Code style (PEP 8)",
-        "url": "peps.python.org/pep-0008"
-      },
-      {
-        "name": "Structures de données",
-        "url": "docs.python.org/fr/3/tutorial/datastructures.html"
-      },
-      {
-        "name": "Types natifs",
-        "url": "docs.python.org/fr/3/library/stdtypes.html"
-      },
-      {
-        "name": "Match Case",
-        "url": "towardsdatascience.com/the-match-case-in-python-3-10-is-not-that-simple-f65b350bb025"
-      },
-      {
-        "name": "Zen",
-        "url": "peps.python.org/pep-0020/"
-      },
-      {
-        "name": "Style de Code",
-        "url": "python-guide-fr.readthedocs.io/fr/latest/writing/style.html"
-      },
-      {
-        "name": "Package Index",
-        "url": "pypi.org"
-      },
-      {
-        "name": "Requests",
-        "url": "fr.python-requests.org/en/latest/"
       },
       {
         "name": "Beautiful Soup",
         "url": "www.crummy.com/software/BeautifulSoup/bs4/doc/"
       },
       {
-        "name": "Pandas",
-        "url": "pandas.pydata.org/"
-      },
-      {
-        "name": "Docstring (PEP 257)",
-        "url": "peps.python.org/pep-0257"
-      },
-      {
-        "name": "Static type checker",
-        "url": "mypy-lang.org/"
+        "name": "Biopython",
+        "url": "biopython.org"
       },
       {
         "name": "Black (Code formatter)",
         "url": "pypi.org/project/black"
       },
       {
-        "name": "Flake8 (PEP 8 linter)",
-        "url": "pypi.org/project/flake8"
+        "name": "Brython",
+        "url": "brython.info"
+      },
+      {
+        "name": "Code Style",
+        "url": "python-guide-fr.readthedocs.io/fr/latest/writing/style.html"
+      },
+      {
+        "name": "Code Style (PEP 8)",
+        "url": "peps.python.org/pep-0008"
+      },
+      {
+        "name": "Cython",
+        "url": "cython.org"
+      },
+      {
+        "name": "Data Structures",
+        "url": "docs.python.org/fr/3/tutorial/datastructures.html"
       },
       {
         "name": "DataTypes (NumPy)",
         "url": "numpy.org/doc/stable/user/basics.types.html"
+      },
+      {
+        "name": "Django",
+        "url": "www.djangoproject.com"
+      },
+      {
+        "name": "Docstring (PEP 257)",
+        "url": "peps.python.org/pep-0257"
+      },
+      {
+        "name": "Flake8 (PEP 8 linter)",
+        "url": "pypi.org/project/flake8"
+      },
+      {
+        "name": "Flask",
+        "url": "flask.palletsprojects.com"
+      },
+      {
+        "name": "IronPython",
+        "url": "ironpython.net"
+      },
+      {
+        "name": "Jython",
+        "url": "www.jython.org"
+      },
+      {
+        "name": "Kivy",
+        "url": "kivy.org/#home"
+      },
+      {
+        "name": "Match Case",
+        "url": "towardsdatascience.com/the-match-case-in-python-3-10-is-not-that-simple-f65b350bb025"
+      },
+      {
+        "name": "Native Types",
+        "url": "docs.python.org/fr/3/library/stdtypes.html"
+      },
+      {
+        "name": "Numba",
+        "url": "numba.pydata.org"
+      },
+      {
+        "name": "NumFocus",
+        "url": "numfocus.org"
+      },
+      {
+        "name": "NumPy",
+        "url": "numpy.org"
+      },
+      {
+        "name": "Package Index",
+        "url": "pypi.org"
+      },
+      {
+        "name": "Panda3D",
+        "url": "www.panda3d.org"
+      },
+      {
+        "name": "Pandas",
+        "url": "pandas.pydata.org"
+      },
+      {
+        "name": "PyData",
+        "url": "pydata.org"
+      },
+      {
+        "name": "PyGame",
+        "url": "www.pygame.org/news"
+      },
+      {
+        "name": "PYJS",
+        "url": "pyjs.org"
+      },
+      {
+        "name": "Python",
+        "url": "www.python.org"
+      },
+      {
+        "name": "Python Doc",
+        "url": "docs.python.org/fr/3"
+      },
+      {
+        "name": "Requests",
+        "url": "python-requests.org/en/latest"
+      },
+      {
+        "name": "SciPy",
+        "url": "scipy.org"
+      },
+      {
+        "name": "Static Type Checker",
+        "url": "mypy-lang.org/"
+      },
+      {
+        "name": "Zen",
+        "url": "peps.python.org/pep-0020/"
       }
     ],
     "db": [
       {
-        "name": "SQL.sh",
-        "url": "sql.sh"
+        "name": "MariaDB",
+        "url": "mariadb.org"
       },
       {
-        "name": "MySQL Doc",
-        "url": "dev.mysql.com/doc"
-      },
-      {
-        "name": "Doc PostgreSQL",
-        "url": "docs.postgresql.fr"
-      },
-      {
-        "name": "Slack MySQL",
-        "url": "mysql-casual.slack.com"
+        "name": "Mongoose Error E11000",
+        "url": "code-garage.fr/blog/mongodb-erreur-mongoose-e11000-duplicate-key-error"
       },
       {
         "name": "MySQL",
         "url": "www.mysql.com"
       },
       {
-        "name": "MariaDB",
-        "url": "mariadb.org"
+        "name": "MySQL Doc",
+        "url": "dev.mysql.com/doc"
       },
       {
         "name": "PostgreSQL",
         "url": "www.postgresql.org"
       },
       {
-        "name": "Mongoose erreur E11000",
-        "url": "code-garage.fr/blog/mongodb-erreur-mongoose-e11000-duplicate-key-error"
+        "name": "PostgreSQL Doc",
+        "url": "docs.postgresql.fr"
       },
       {
         "name": "Sequelize Doc",
         "url": "sequelize.org/docs/v6"
       },
       {
+        "name": "Sequelize Tutorial with Node",
+        "url": "medium.com/@phpxpertise/sequelize-tutorial-with-node-js-63f5d2f89094"
+      },
+      {
         "name": "Sequelize with Vue & Express",
         "url": "www.bezkoder.com/vue-js-node-js-express-mysql-crud-example"
       },
       {
-        "name": "Sequelize tutorial with Node",
-        "url": "medium.com/@phpxpertise/sequelize-tutorial-with-node-js-63f5d2f89094"
+        "name": "Slack MySQL",
+        "url": "mysql-casual.slack.com"
+      },
+      {
+        "name": "SQL.sh",
+        "url": "sql.sh"
       }
     ],
     "git": [
       {
-        "name": "Doc Git",
-        "url": "git-scm.com/docs"
-      },
-      {
         "name": "Badgen",
         "url": "badgen.net"
-      },
-      {
-        "name": "For The Badge",
-        "url": "forthebadge.com"
-      },
-      {
-        "name": "Shields IO",
-        "url": "shields.io"
-      },
-      {
-        "name": "GitKraken",
-        "url": "www.gitkraken.com"
-      },
-      {
-        "name": "Sourcetree",
-        "url": "www.sourcetreeapp.com"
-      },
-      {
-        "name": "GitHub",
-        "url": "github.com"
-      },
-      {
-        "name": "Doc GitHub",
-        "url": "docs.github.com/fr"
-      },
-      {
-        "name": "Code Climate",
-        "url": "codeclimate.com"
       },
       {
         "name": "Codacy",
         "url": "www.codacy.com"
       },
       {
-        "name": "Slack GitKraken",
-        "url": "gitkraken.slack.com"
+        "name": "Code Climate",
+        "url": "codeclimate.com"
+      },
+      {
+        "name": "Doc Git",
+        "url": "git-scm.com/docs"
+      },
+      {
+        "name": "For The Badge",
+        "url": "forthebadge.com"
+      },
+      {
+        "name": "Gist Index",
+        "url": "gist.github.com/Thithip/cfc058442e4e052aa817"
       },
       {
         "name": "Git",
         "url": "git-scm.com"
       },
       {
-        "name": "Gist Index",
-        "url": "gist.github.com/Thithip/cfc058442e4e052aa817"
+        "name": "GitHub",
+        "url": "github.com"
+      },
+      {
+        "name": "GitHub Doc",
+        "url": "docs.github.com"
+      },
+      {
+        "name": "GitKraken",
+        "url": "www.gitkraken.com"
+      },
+      {
+        "name": "Shields IO",
+        "url": "shields.io"
+      },
+      {
+        "name": "Slack GitKraken",
+        "url": "gitkraken.slack.com"
+      },
+      {
+        "name": "Sourcetree",
+        "url": "www.sourcetreeapp.com"
       }
     ],
     "dev": [
       {
-        "name": "Diapo pour Dev",
-        "url": "slidesgo.com/theme/programming-language-workshop-for-beginners#search-Programming&position-2"
+        "name": "Chmod Command",
+        "url": "chmodcommand.com"
       },
       {
-        "name": "Regex101",
-        "url": "regex101.com"
+        "name": "Codeium AI",
+        "url": "codeium.com"
+      },
+      {
+        "name": "CodePen",
+        "url": "codepen.io"
+      },
+      {
+        "name": "Daily.dev",
+        "url": "daily.dev"
+      },
+      {
+        "name": "FCP",
+        "url": "wp-rocket.me/lighthouse-performance-score-wordpress/improve-first-contentful-paint/"
+      },
+      {
+        "name": "FileZilla",
+        "url": "filezilla-project.org/index.php"
+      },
+      {
+        "name": "Flaticon",
+        "url": "www.flaticon.com"
+      },
+      {
+        "name": "Free Code Camp",
+        "url": "www.freecodecamp.org"
+      },
+      {
+        "name": "FreePik",
+        "url": "freepik.com"
+      },
+      {
+        "name": "Grafikart",
+        "url": "grafikart.fr"
+      },
+      {
+        "name": "IA Prompt Best Practices",
+        "url": "www.conseilsmarketing.com/chatbot-et-callbot/avec-le-chat-gpt-il-y-va-avoir-une-vraie-differ"
+      },
+      {
+        "name": "IconNinja",
+        "url": "www.iconninja.com"
+      },
+      {
+        "name": "JPG -> PNG Converter",
+        "url": "jpg2png.com/fr"
+      },
+      {
+        "name": "Linux Cheatsheet",
+        "url": "juliend.github.io/linux-cheatsheet/#cp"
+      },
+      {
+        "name": "Linux Monitoring",
+        "url": "www.lemagit.fr/conseil/cinq-commandes-linux-pour-monitorer-les-performances-des-serveurs"
+      },
+      {
+        "name": "MDN Tutorials",
+        "url": "developer.mozilla.org/fr/docs/web/tutorials"
+      },
+      {
+        "name": "Medium Articles",
+        "url": "thepycoach.teachable.com/p/make-extra-income-writing-as-a-programmer-or-data-scientist"
+      },
+      {
+        "name": "Negative Space",
+        "url": "negativespace.co"
+      },
+      {
+        "name": "Noun Project",
+        "url": "thenounproject.com"
+      },
+      {
+        "name": "Openclassrooms",
+        "url": "openclassrooms.com"
+      },
+      {
+        "name": "PDF -> JPG Converter",
+        "url": "pdf2jpg.net/fr"
+      },
+      {
+        "name": "PDFzorro",
+        "url": "www.pdfzorro.com"
+      },
+      {
+        "name": "Pixabay",
+        "url": "pixabay.com"
+      },
+      {
+        "name": "PNG -> SVG Converter",
+        "url": "www.pngtosvg.com"
       },
       {
         "name": "Regex URL",
@@ -1246,235 +1334,147 @@
         "url": "www.codegrepper.com/code-examples/javascript/regex+remove+http+and+https"
       },
       {
-        "name": "Flaticon",
-        "url": "www.flaticon.com"
+        "name": "Regex101",
+        "url": "regex101.com"
       },
       {
-        "name": "IconNinja",
-        "url": "www.iconninja.com"
-      },
-      {
-        "name": "Noun Project",
-        "url": "thenounproject.com"
-      },
-      {
-        "name": "Share Icon",
-        "url": "www.shareicon.net"
-      },
-      {
-        "name": "FreePik",
-        "url": "fr.freepik.com"
-      },
-      {
-        "name": "Negative Space",
-        "url": "negativespace.co"
-      },
-      {
-        "name": "Pixabay",
-        "url": "pixabay.com"
-      },
-      {
-        "name": "Unsplash",
-        "url": "unsplash.com"
-      },
-      {
-        "name": "Squoosh",
-        "url": "squoosh.app"
-      },
-      {
-        "name": "TinyPng",
-        "url": "tinypng.com"
-      },
-      {
-        "name": "SmallPdf",
-        "url": "smallpdf.com"
-      },
-      {
-        "name": "PDFzorro",
-        "url": "www.pdfzorro.com"
+        "name": "RSS Validator",
+        "url": "validator.w3.org/feed"
       },
       {
         "name": "Sedja",
         "url": "www.sejda.com"
       },
       {
-        "name": "Stack Overflow",
-        "url": "stackoverflow.com"
+        "name": "Share Icon",
+        "url": "www.shareicon.net"
       },
       {
-        "name": "Openclassrooms",
-        "url": "openclassrooms.com"
+        "name": "Slide for Dev",
+        "url": "slidesgo.com/theme/programming-language-workshop-for-beginners#search-Programming&position-2"
       },
       {
-        "name": "Tutoriels MDN",
-        "url": "developer.mozilla.org/fr/docs/web/tutorials"
-      },
-      {
-        "name": "Grafikart",
-        "url": "grafikart.fr"
-      },
-      {
-        "name": "Web.dev",
-        "url": "web.dev"
-      },
-      {
-        "name": "Free Code Camp",
-        "url": "www.freecodecamp.org"
+        "name": "SmallPdf",
+        "url": "smallpdf.com"
       },
       {
         "name": "Sololearn",
         "url": "www.sololearn.com/home"
       },
       {
-        "name": "Calculateur Chmod",
-        "url": "chmodcommand.com"
+        "name": "Squoosh",
+        "url": "squoosh.app"
+      },
+      {
+        "name": "Stack Overflow",
+        "url": "stackoverflow.com"
+      },
+      {
+        "name": "The Lorem Ipsum for Photos",
+        "url": "picsum.photos/"
+      },
+      {
+        "name": "TinyPng",
+        "url": "tinypng.com"
       },
       {
         "name": "Unminify",
         "url": "www.unminify2.com"
       },
       {
+        "name": "Unsplash",
+        "url": "unsplash.com"
+      },
+      {
         "name": "W3Schools HowTo",
         "url": "www.w3schools.com/howto"
       },
       {
-        "name": "Monitorer Linux",
-        "url": "www.lemagit.fr/conseil/cinq-commandes-linux-pour-monitorer-les-performances-des-serveurs"
-      },
-      {
-        "name": "Medium",
-        "url": "thepycoach.teachable.com/p/make-extra-income-writing-as-a-programmer-or-data-scientist"
-      },
-      {
-        "name": "FCP",
-        "url": "wp-rocket.me/lighthouse-performance-score-wordpress/improve-first-contentful-paint/"
-      },
-      {
-        "name": "Convertisseur PDF -> JPG",
-        "url": "pdf2jpg.net/fr"
-      },
-      {
-        "name": "Convertisseur JPG -> PNG",
-        "url": "jpg2png.com/fr"
-      },
-      {
-        "name": "Convertisseur PNG -> SVG",
-        "url": "www.pngtosvg.com"
-      },
-      {
-        "name": "Validateur RSS",
-        "url": "validator.w3.org/feed"
-      },
-      {
-        "name": "FileZilla",
-        "url": "filezilla-project.org/index.php"
-      },
-      {
-        "name": "Linux commandes fondamentales",
-        "url": "juliend.github.io/linux-cheatsheet/#cp"
-      },
-      {
-        "name": "Veille techno",
-        "url": "daily.dev"
-      },
-      {
-        "name": "CodePen",
-        "url": "codepen.io"
-      },
-      {
-        "name": "The Lorem Ipsum for photos",
-        "url": "picsum.photos/"
-      },
-      {
-        "name": "Codeium AI",
-        "url": "codeium.com"
-      },
-      {
-        "name": "Bonnes pratiques prompt IA",
-        "url": "www.conseilsmarketing.com/chatbot-et-callbot/avec-le-chat-gpt-il-y-va-avoir-une-vraie-differ"
+        "name": "Web.dev",
+        "url": "web.dev"
       }
     ]
   },
   "portfolio": {
     "packages": [
       {
-        "name": "Pam",
-        "detail": "PHP Adaptive Microframework",
-        "image": "portfolio/pam-tn.webp",
-        "alt": "PHP Logo",
-        "url": "https://packagist.org/packages/philippebeck/pam"
-      },
-      {
         "name": "Animadio",
         "detail": "CSS Library made with Sass",
-        "image": "portfolio/animadio-tn.webp",
+        "image": "portfolio/animadio.webp",
         "alt": "Sass Logo",
         "url": "https://www.npmjs.com/package/animadio"
       },
       {
         "name": "Vesan",
         "detail": "Vue Framework with Vuex",
-        "image": "portfolio/vesan-tn.webp",
+        "image": "portfolio/vesan.webp",
         "alt": "Vue Logo",
         "url": "https://www.npmjs.com/package/vesan"
       },
       {
         "name": "Nens",
         "detail": "Node/Express Framework with MySQL",
-        "image": "portfolio/nens-tn.webp",
+        "image": "portfolio/nens.webp",
         "alt": "Node Logo",
         "url": "https://www.npmjs.com/package/nens"
+      },
+      {
+        "name": "Pam",
+        "detail": "PHP Adaptive Microframework",
+        "image": "portfolio/pam.webp",
+        "alt": "PHP Logo",
+        "url": "https://packagist.org/packages/philippebeck/pam"
       }
     ],
     "websites": [
       {
+        "name": "Animadio Doc",
+        "detail": "Website of the Animadio documentation",
+        "image": "portfolio/animadio-doc.webp",
+        "alt": "Homepage of the Animadio Website",
+        "url": "https://github.com/philippebeck/animadio.org"
+      },
+      {
         "name": "Asperger",
         "detail": "Asperger's syndrome website offering diagnostic tests",
-        "image": "portfolio/asperger-tn.webp",
+        "image": "portfolio/asperger.webp",
         "alt": "Homepage of the Asperger website",
         "url": "https://github.com/philippebeck/asperger"
       },
       {
         "name": "Astronomy",
         "detail": "Astronomy website using NASA & CDS APIs",
-        "image": "portfolio/astronomy-tn.webp",
+        "image": "portfolio/astronomy.webp",
         "alt": "Homepage of the Astronomy Website",
         "url": "https://github.com/philippebeck/astronomy"
       },
       {
         "name": "DevsAgency",
         "detail": "Website of a digital agency offering development services",
-        "image": "portfolio/devsagency-tn.webp",
+        "image": "portfolio/devsagency.webp",
         "alt": "Homepage of the DevsAgency Website",
         "url": "https://github.com/philippebeck/devsagency"
       },
       {
-        "name": "Tools2Code",
-        "detail": "Website of developer resources",
-        "image": "portfolio/tools2code-tn.webp",
-        "alt": "Homepage of the Tools2Code Website",
-        "url": "github.com/philippebeck/tools2code"
-      },
-      {
-        "name": "Animadio Doc",
-        "detail": "Website of the Animadio documentation",
-        "image": "portfolio/animadio-doc-tn.webp",
-        "alt": "Homepage of the Animadio Website",
-        "url": "https://github.com/philippebeck/animadio.org"
+        "name": "Kasa",
+        "detail": "Website of a rental agency",
+        "image": "portfolio/kasa.webp",
+        "alt": "Homepage of the Kasa Website",
+        "url": "https://github.com/philippebeck/kasa"
       },
       {
         "name": "Pam Doc",
         "detail": "Website of the Pam documentation",
-        "image": "portfolio/pam-doc-tn.webp",
+        "image": "portfolio/pam-doc.webp",
         "alt": "Homepage of the Pam Website",
         "url": "https://github.com/philippebeck/pam"
       },
       {
-        "name": "Kasa",
-        "detail": "Website of a rental agency",
-        "image": "portfolio/kasa-tn.webp",
-        "alt": "Homepage of the Kasa Website",
-        "url": "https://github.com/philippebeck/kasa"
+        "name": "Tools2Code",
+        "detail": "Website of developer resources",
+        "image": "portfolio/tools2code.webp",
+        "alt": "Homepage of the Tools2Code Website",
+        "url": "github.com/philippebeck/tools2code"
       }
     ]
   }
