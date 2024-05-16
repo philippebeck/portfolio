@@ -1,5 +1,5 @@
 .next/
-build/
+dist/
 coverage/
 public/
 node_modules/
