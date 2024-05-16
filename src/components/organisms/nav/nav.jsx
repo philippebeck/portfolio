@@ -14,6 +14,7 @@ const Nav = () => {
           <li key={index}>
             <Link
               url={item.url}
+              label={item.text}
               content={
                 <>
                   <Icon cat={item.iconCat} name={item.iconName} />
@@ -27,6 +28,7 @@ const Nav = () => {
 
       <Link
         url="#intro"
+        label="Logo"
         content={<Image url={logo} alt="Logo" />}
       />
 
@@ -35,6 +37,7 @@ const Nav = () => {
           <li key={index}>
             <Link
               url={item.url}
+              label={item.text}
               content={
                 <>
                   <Icon cat={item.iconCat} name={item.iconName} />

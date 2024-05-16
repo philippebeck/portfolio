@@ -13,6 +13,7 @@ const Footer = () => {
           <li key={index}>
             <Link
               url={item.url} 
+              label={item.name}
               content={<Icon cat="brands" name={item.icon} />}
             />
           </li>
