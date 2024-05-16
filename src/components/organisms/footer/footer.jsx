@@ -1,4 +1,4 @@
-import { components } from '../../../assets/data.json'
+import { footer } from '../../../assets/data.json'
 import './footer.css'
 
 import Icon from '../../atoms/icon/icon'
@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <footer>
       <ul>
-        { components.footer.map((item, index) =>
+        { footer.map((item, index) =>
           <li key={index}>
             <Link
               url={item.url} 

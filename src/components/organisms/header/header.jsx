@@ -1,15 +1,19 @@
-import { components } from '../../../assets/data.json'
+import { content, header } from '../../../assets/data.json'
+import Title from '../../atoms/title/title'
 import './header.css'
 
 const Header = () => {
 
   return (
     <header id="intro">
-      <h1>{components.title}</h1>
-      <strong>{components.subtitle}</strong>
+      <Title 
+        title={content.title} 
+        lvl="1" 
+        subtitle={<strong>{content.subtitle}</strong>}
+      />
 
       <ul>
-        { components.header.map((item, index) =>
+        { header.map((item, index) =>
           <li key={index}>
             {item}
           </li>

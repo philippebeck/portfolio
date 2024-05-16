@@ -3,7 +3,7 @@ import './icon.css'
 const Icon = ({cat, name}) => {
 
   return (
-    <i className={`fa-${cat} fa-${name} fa-lg`}></i>
+    <i className={`fa-${cat} fa-${name} fa-fw fa-lg`}></i>
   )
 }
 
