@@ -1,4 +1,4 @@
-import { components } from '../../../assets/data.json'
+import { nav } from '../../../assets/data.json'
 import logo from '../../../assets/logo.webp'
 import Icon from '../../atoms/icon/icon'
 import Image from '../../atoms/image/image'
@@ -10,7 +10,7 @@ const Nav = () => {
   return (
     <nav id="nav">
       <ul>
-        { components.nav.out.map((item, index) =>
+        { nav.out.map((item, index) =>
           <li key={index}>
             <Link
               url={item.url}
@@ -31,7 +31,7 @@ const Nav = () => {
       />
 
       <ul>
-        { components.nav.in.map((item, index) =>
+        { nav.in.map((item, index) =>
           <li key={index}>
             <Link
               url={item.url}

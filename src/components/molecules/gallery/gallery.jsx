@@ -7,7 +7,7 @@ const Gallery = ({ name, gallery }) => {
 
   return (
     <section className="gallery">
-      <Title name={name} lvl="3" />
+      <Title title={name} lvl="3" />
 
       <ul>
         { gallery.map((item, index) => 
